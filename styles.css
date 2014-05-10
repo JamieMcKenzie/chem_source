@@ -1,0 +1,12 @@
+body {
+  min-width: 357px;
+  overflow-x: hidden;
+}
+
+img {
+  border: 2px solid black;
+  height: 75px;
+  margin: 5px;
+  vertical-align: middle;
+  width: 75px;
+}

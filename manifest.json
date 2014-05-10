@@ -1,0 +1,21 @@
+{
+  "manifest_version": 2,
+
+  "name": "Chem Source",
+  "description": "Chrome extension to open new tabs of all cited articles in an academic paper (pdf).",
+  "version": "1.0",
+
+  "permissions": [
+    "https://secure.flickr.com/"
+    ],
+
+  "icons": {
+    "19": "icon.png",
+    "75": "icon75.png"
+  },
+
+  "browser_action": {
+    "default_icon": "icon.png",
+    "default_popup": "chem.html"
+  }
+}
